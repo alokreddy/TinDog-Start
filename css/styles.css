@@ -9,6 +9,12 @@ h1 {
   font-weight: 900;
 }
 
+h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -50,4 +56,30 @@ h1 {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+
+.fa-check-circle,
+.fa-bullseye,
+.fa-heart {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.fa-check-circle:hover,
+.fa-bullseye:hover,
+.fa-heart:hover {
+  color: #ff4c68;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+#features {
+  padding: 7% 15%;
 }
