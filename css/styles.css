@@ -167,12 +167,12 @@ p {
 footer {
   background-color: #fff;
   text-align: center;
-  font-size: 2rem;
-  padding: 2%;
+  padding: 1%;
 }
 
-footer > fab {
-  padding: 4%;
+.social-icons {
+  font-size: 3rem;
+  margin: 20px 10px;
 }
 
 footer > p {
