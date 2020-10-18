@@ -1,8 +1,9 @@
 body {
   font-family: "Montserrat", sans-serif;
+  text-align: center;
 }
 
-h1 {
+.big-heading {
   font-family: "Montserrat-Black", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
@@ -80,7 +81,6 @@ h3 {
 }
 
 .feature-box {
-  text-align: center;
   padding: 5%;
 }
 
@@ -97,7 +97,6 @@ p {
 /* Testimonials */
 
 #testimonials {
-  text-align: center;
   background-color: #ef8172;
   color: #fff;
 }
@@ -116,7 +115,6 @@ p {
 
 #press {
   background-color: #ef8172;
-  text-align: center;
 }
 
 .press-logo {
@@ -127,7 +125,6 @@ p {
 /* Pricing Section */
 
 #pricing {
-  text-align: center;
   padding: 7% 15%;
 }
 
@@ -149,7 +146,6 @@ p {
 
 #cta {
   background-color: #ff4c68;
-  text-align: center;
   padding: 7% 15%;
 }
 
@@ -159,14 +155,12 @@ p {
   line-height: 1.5;
   color: #fff;
   width: 70%;
-  text-align: center;
   margin: 1% 15% 3%;
 }
 
 /* Footer */
 footer {
   background-color: #fff;
-  text-align: center;
   padding: 1%;
 }
 
